@@ -31,6 +31,7 @@ Zabel H. Panosyan
 			- [Initial measurements](#initial-measurements)
 			- [Density](#density)
 			- [Standard Deviation of density](#standard-deviation-of-density)
+			- [Density challenge](#density-challenge)
 		- [Data](#data)
 		- [Method 1: Weighing it down](#method-1-weighing-it-down)
 			- [Data](#data)
@@ -40,6 +41,9 @@ Zabel H. Panosyan
 		- [Accuracy and precision of glassware](#accuracy-and-precision-of-glassware)
 		- [What substance is the unknown solid?](#what-substance-is-the-unknown-solid)
 	- [Conclusion](#conclusion)
+		- [Archimedes Principle](#archimedes-principle)
+		- [Lossy Measurements](#lossy-measurements)
+		- [Standard Deviation](#standard-deviation)
 
 <!-- /TOC -->
 
