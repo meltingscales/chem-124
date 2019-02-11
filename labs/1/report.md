@@ -182,7 +182,7 @@ These are the standard deviation calculations of the density measurements.
 
 $Density = 2.2 \pm 0.063 \frac{g}{mL}$
 
-Density challenge
+#### Density challenge
 
 Obtain a sample of an unknown solid that is lighter than water.
 
@@ -201,7 +201,7 @@ Weigh the sample and record its mass. This is needed later in both methods.
 
 ### Method 1: Weighing it down
 
-Obtain a heavy sample that you know the volume of with weight sufficient enough
+Obtain a heavy sample whose volume is known with weight sufficient enough
 to hold the lighter sample under water.
 
 1.  Fill and measure a graduated cylinder with enough water to submerge both the
@@ -223,9 +223,9 @@ to hold the lighter sample under water.
 
 1.  Fill and measure a graduated cylinder with isopropanol or other light fluid.
 
-2.  Add your unknown solid to the graduated cylinder and measure the volume.
+2.  Add the unknown solid to the graduated cylinder and measure the volume.
 
-3.  Subtracting the volumes will give you your solid's volume.
+3.  Subtracting the volumes will yield the solid's volume.
 
 #### Data
 
@@ -295,4 +295,7 @@ at $1.30 \frac{g}{mL}$ when using a $30mL$ beaker.
 ### Standard Deviation
 
 At the end of the lab, standard deviation was calculated of measurements of four
-unknown solids
+unknown solids to show how to calculate the error in measurements.
+
+It turns out that using multiple measurements can increase your accuracy, but
+decrease your precision.
