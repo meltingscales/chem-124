@@ -13,8 +13,6 @@ Zabel H. Panosyan
 
 02/13/19
 
-$$ \pagebreak $$
-
 # Objective
 
 To approximate Avogadro's number using a one-atom layer (monolayer) of a
@@ -65,10 +63,6 @@ The average of all measurements is used as the "drops per $1.00mL$" measurement.
     
 For increased accuracy, this experiment can be repeated.
 
-## Result
-
-This experiment found Avogadro's number to be approximately $4.08 \times {10}^{24}$.
-
 ## Post-lab
 
 ### Assumtions made
@@ -103,3 +97,7 @@ acid monolayer mainly due to the amount of steps included, and the relative lack
 of precision of each step.
 
 However, a good estimate can be obtained.
+
+## Result
+
+This experiment found Avogadro's number to be approximately $4.08 \times {10}^{24}$.
