@@ -3,7 +3,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-
 
 <!-- https://www.tablesgenerator.com/markdown_tables# -->
 
-# Experiment 2: Synthesis of Alum
+# Experiment 3: Synthesis of Alum
 
 Illinois Institute of Technology
 
@@ -19,27 +19,36 @@ To learn common techniques for the synthesis of Alum, how to use a b&uuml;chner
 funnel to separate solids from liquids, and how to crystallize a liquid
 solution.
 
+The objective is also to practice determining the limiting reagent and
+calculating percent yield.
+
 # Procedures
 
-## Measuring the volume of stearic acid to form a monolayer
+## Synthesis of soluble potassium aluminate salt
 
-1.  The watchglass's diameter is measured and recorded.
-2.  The watchglass is filled edge-to-edge with water. Skin oils will disrupt this experiment.
-3.  The stearic acid solution is added drop-by-drop to the watchglass.
+1.  Obtain $1g$ of aluminum foil.
+    
+    The aluminum foil is torn into small pieces ($0.5cm$) and placed into a
+    $250mL$ beaker.
 
-    The stearic acid drops can be observed with the aid of a bright light or
-    glare at an angle, striking the position that the drop was deposited.
+2.  Slowly add $25mL$ of $3.0M \textrm{KOH}$ solution to the beaker. Allow the
+    reaction to run to completion.
     
-    A pause of at least 5 seconds should be inserted each time a drop is added.
-    This is to ensure that the stearic acid drop has time to be observed slowly
-    forming a monolayer.
+3.  A b&uuml;chner funnel and vacuum filtration are used to remove any solid
+    residue.
     
-    When the stearic acid drop takes more that 30 seconds to fully flatten out,
-    the stearic acid drops are done being added.
+    1.  The reacted mixture is poured through a b&uuml;chner funnel with filter
+    paper into a filter flask, into any size beaker.
     
-    The number of drops is then recorded.
+        The beaker is rinsed with distilled water and remaining solution is
+        re-filtered to obtain as much filtered solution as possible.
+        
+    2.  The solution is transferred back into the cleaned $250mL$ beaker.
     
-For increased accuracy, this experiment can be repeated.
+    3.  The solution is placed into an ice bath if it is warn.
+    
+TODO
+    
 
 ## Post-lab
 
