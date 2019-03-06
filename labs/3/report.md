@@ -88,7 +88,7 @@ ethanol is used to rinse them.
 There are a couple of ways to determine if the correct product has formed:
 
 1.  Determine the melting point of the synthesized alum and compare it to the
-known melting point of pure alum
+known melting point of pure alum.
 
 2.  Heat the alum in a crucible to drive off the $\mathrm{12H_2O}$ attached to
 the alum, and compare the difference in weight to see if the weights are in
@@ -140,11 +140,11 @@ The following are sources of error that could cause the percent yield to exceed
 
 ## Conclusion
 
-It is very hard to get a good measurement of Avogadro's number using a stearic
-acid monolayer mainly due to the amount of steps included, and the relative lack
-of precision of each step.
+This lab showed us that it is takes only a few steps to react and crystallize an
+alum product from liquid and solid reagents.
 
-However, a good estimate can be obtained.
+In addition to that, we explored the different sources of error that could
+affect the final results of a synthesis.
 
 ## Result
 
