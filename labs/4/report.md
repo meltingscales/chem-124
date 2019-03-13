@@ -20,7 +20,7 @@ solution to determine the strength of antacid tablets.
 
 # Procedures
 
-Two antacid tablets are weighed and dissolved in $0.300M \ \mathrm{HCL}$ solution.
+Two antacid tablets are weighed and dissolved in $0.300M \ \mathrm{HCl}$ solution.
 This solution is then heated to boiling until the tablets dissolve. The
 $\mathrm{HCL}$ solution is set aside.
 
@@ -44,11 +44,9 @@ its own weight in $0.14M\ \mathrm{HCl}$ aqueous solution.
 
 ## Conclusion
 
-This lab showed us that it is takes only a few steps to react and crystallize an
-alum product from liquid and solid reagents.
-
-In addition to that, we explored the different sources of error that could
-affect the final results of a synthesis.
+This lab had us perform one titration to first standardize the strength of a
+base solution, and then perform a reverse titration on $\mathrm{HCl}$ to see
+how much acid was neutralized by an antacid tablet. 
 
 ## Result
 
