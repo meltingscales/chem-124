@@ -18,50 +18,18 @@ Zabel H. Panosyan
 To approximate Avogadro's number using a one-atom layer (monolayer) of a
 substance.
 
-# Materials
-
-- Volumetric pipet
-- $10mL$ graduated cylinders
-- Watchglass
-- Water
-- Pure hexane
-- A mixture of pure hexane and stearic acid
-
 # Procedures
 
-## Calibration of the pipet
+A small amount of hexane is poured into a beaker. A pipet is used to drop hexane
+to another empty container until an integer measurement is reached. This step
+calibrates the pipet's $\frac{drops}{mL}$. This is repeated five times and the
+average of the five measurements is taken.
 
-A small amount of hexane is poured into the $10mL$ beaker.
-
-A pipet is used to drop hexane until an integer mL measurement is reached.
-
-Then, drops of hexane are added at a constant angle until the next integer is
-reached. This number is recorded as "Drops per $1.00mL$".
-
-The last step is repeated until your measurements are within 5 drops of
-eachother.
-
-The average of all measurements is used as the "drops per $1.00mL$" measurement.
-
-## Measuring the volume of stearic acid to form a monolayer
-
-1.  The watchglass's diameter is measured and recorded.
-2.  The watchglass is filled edge-to-edge with water. Skin oils will disrupt this experiment.
-3.  The stearic acid solution is added drop-by-drop to the watchglass.
-
-    The stearic acid drops can be observed with the aid of a bright light or
-    glare at an angle, striking the position that the drop was deposited.
-    
-    A pause of at least 5 seconds should be inserted each time a drop is added.
-    This is to ensure that the stearic acid drop has time to be observed slowly
-    forming a monolayer.
-    
-    When the stearic acid drop takes more that 30 seconds to fully flatten out,
-    the stearic acid drops are done being added.
-    
-    The number of drops is then recorded.
-    
-For increased accuracy, this experiment can be repeated.
+A watchglass is filled edge-to-edge with water. A solution of stearic acid is
+slowly dropped onto the water by pipet. The stearic acid drops will take longer
+to flatten out onto the water the more there is. After about 20-30 drops, the
+stearic acid should take longer than 30 seconds to fully flatten out, which
+means the experiment is complete.
 
 ## Post-lab
 
