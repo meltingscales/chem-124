@@ -22,7 +22,7 @@ substance.
 
 A small amount of hexane is poured into a beaker. A pipet is used to drop hexane
 to another empty container until an integer measurement is reached. This step
-calibrates the pipet's $\frac{drops}{mL}$. This is repeated five times and the
+calibrates the pipet's drops per $mL$. This is repeated five times and the
 average of the five measurements is taken.
 
 A watchglass is filled edge-to-edge with water. A solution of stearic acid is
