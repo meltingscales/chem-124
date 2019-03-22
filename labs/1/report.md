@@ -13,95 +13,34 @@ Zabel H. Panosyan
 
 02/06/19
 
-$$ \pagebreak $$
-
 # Objective
 
 To determine the density and identity of an unknown solid.
 
-# Materials
-
-- Volumetric pipet
-- $50mL$ buret
-- $100mL$ and $10mL$ graduated cylinders
-- $30mL$ beaker
-- Water
-- Isopropanol or other liquid less dense than water
-- A set of unknown solids made from the same material
-- An unknown solid with a density lower than that of water's
-
 # Procedures
 
-## Practicing reading volume
+Two empty graduated cylinders are weighed. The graduated cylinders and a buret
+are then filled with any amount of water, and the water level is measured and
+recorded.
 
-Two graduated cylinders and a buret are filled with any amount of water.
+A set of two unknown solids are weighed and then submerged into the graduated
+cylinders. The water level is recorded. This step can be repeated to measure any
+number of unknown solids.
 
-The water level is measured and recorded.
+An unknown solid which is lighter than water is obtained and weighed.
 
-### Observations
+There exist two methods to obtain the density of an unknown solid which is lighter than water:
 
-The buret, being much longer, takes longer than the graduated cylinders to
-settle to a fixed water level when it is being filled.
+1. Using a liquid less dense than the sample, i.e. isopropanol
 
-## Measuring Volume and Mass
+A graduated cylinder is filled with isopropanol and its volume is measured. The
+sample is placed in the isopropanol and the volume is measured again.
 
-Two graduated cylinders, a beaker and a volumetric pipet, all empty,
-are all weighed and their weights recorded.
+2. Using a heavy object whose density is known to weigh down the lighter sample
 
-The buret is not weighed, but rather, its weight will be recorded as the
-weight of the container used to hold the liquid the buret will measure.
-
-All containers are then filled with any amount of water, and each container's
-water level is measured and recorded.
-
-Then, each filled container is weighed and their weights recorded.
-
-For the buret, weigh the container holding the liquid that it measured.
-
-## Identifying an unknown solid by density
-
-1.  Obtain a set (two or more) of samples of unknown solids.
-
-2.  Weigh all samples and record their weights.
-
-3.  Choose a graduated cylinder that can fit the largest sample and fill it with
-    enough water to submerge the largest sample.
-
-4.  Record the initial volume of the water.
-
-5.  Submerge a sample carefully into the water and record the volume.
-
-6.  Empty the graduated cylinder of water and the sample.
-
-7.  Repeat steps 3-6 until you've measured the volume of all samples.
-
-#### Density challenge
-
-Obtain a sample of an unknown solid that is lighter than water.
-
-Weigh the sample and record its mass. This is needed later in both methods.
-
-### Method 1: Weighing it down
-
-Obtain a heavy sample whose volume is known with weight sufficient enough
-to hold the lighter sample under water.
-
-1.  Fill and measure a graduated cylinder with enough water to submerge both the
-    light and heavy sample.
-
-2.  Place the lighter sample into the cylinder. Next, place the heavy sample on
-    top of the lighter sample. 
-   
-3.  Measure the volume again. The volume of the unknown light solid can now be
-    calculated by subtracting the other volumes.
-
-### Method 2: Using a lighter liquid
-
-1.  Fill and measure a graduated cylinder with isopropanol or other light fluid.
-
-2.  Add the unknown solid to the graduated cylinder and measure the volume.
-
-3.  Subtracting the volumes will yield the solid's volume.
+A graduated cylinder is filled with water and its volume is measured. The sample
+is placed in the water, and a heavy sample is placed above it. The volume is
+measured again.
 
 ## Result
 
@@ -123,6 +62,11 @@ measurements.
 
 The 30mL beaker is the worst choice for accurate measurements, and is moderately
 precise.
+
+## Observations
+
+The buret, being much longer, takes longer than the graduated cylinders to
+settle to a fixed water level when it is being filled.
 
 ## Conclusion
 
