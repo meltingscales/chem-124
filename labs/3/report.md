@@ -24,62 +24,23 @@ calculating percent yield.
 
 # Procedures
 
-## Synthesis of soluble potassium aluminate salt
+A small sample of aluminum foil is torn into small pieces and placed into a
+beaker. A weak $\mathrm{KOH}$ solution is added to the foil and the foil is
+dissolved. The solution of $\mathrm{KOH}$ and aluminum is then vacuum filtered
+to obtain as much dissolved aluminum as possible.
 
-1.  Obtain $1g$ of aluminum foil.
-
-    The aluminum foil is torn into small pieces ($0.5cm$) and placed into a
-    $250mL$ beaker.
-
-2.  Slowly add $25mL$ of $3.0M \ \mathrm{KOH}$ solution to the beaker. Allow the
-reaction to run to completion.
-
-3.  A b&uuml;chner funnel and vacuum filtration are used to remove any solid
-residue.
-
-    1.  The reacted mixture is poured through a b&uuml;chner funnel with filter
-    paper into a filter flask, into any size beaker.
-
-        The beaker is rinsed with distilled water and remaining solution is
-        re-filtered to obtain as much filtered product as possible.
-
-    2.  The solution is transferred back into the cleaned $250mL$ beaker.
-
-    3.  The solution is placed into an ice bath if it is warm.
+$\mathrm{H_2SO_4}$ is measured and gradually added to the filtered solution,
+stirred until no solids remain.
     
-## Precipitation and dissolution of aluminum hydroxide
+The solution is gently boiled until it is at or below $50mL$. The solution is
+then put into an ice bath and let sit until $\mathrm{KAl(SO_4)_2 \cdot 12H_2O}$
+crystals form. If crystals are not forming fast enough, the beaker containing
+the solution is scratched with a glass stirring rod vigorously to encourage
+crystal formation.
 
-1.  $40ML$ of $6M \ \mathrm{H_2SO_4}$ is measured and gradually added to the
-filtered solution, with constant stirring.
-
-2.  The reaction mixture should have no solids left. If solids remain, the
-mixture is heated until they dissolve. 
-
-## Formation of $\mathrm{KAl(SO_4)_2 \cdot 12H_2O}$ crystals
-
-1.  The solution should be around $50mL$. 
-
-    If it is not, it is gently boiled until it is.
-
-2.  An ice bath is prepared and the solution is placed into it. The solution
-should not be moved, as this can disrupt crystal formation.
-
-3.  Crystals should form in about 15 minutes. 
-
-    If they do not, the beaker containing the solution is scratched with a glass
-    stirring rod vigorously to encourage crystal formation.
-  
-## Isolation of $\mathrm{KAl(SO_4)_2 \cdot 12H_2O}$ crystals
-
-1.  The alum crystals are collected by vacuum filtration and chilled 50% aqueous
-ethanol is used to rinse them.
-
-2.  The crystals are evenly distributed by a spatula and let dry for 10 minutes.
-
-3.  A clean watchglass is weighed to collect the crystals.
-
-    The crystals are transferred to the watchglass and the watchglass is weighed
-    again.
+The alum crystals are collected by vacuum filtration and rinsed with chilled 50%
+aqueous ethanol. The crystals are then evenly distributed by a spatula and
+allowed to dry, and then weighed.
 
 ## Post-lab
 
