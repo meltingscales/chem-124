@@ -58,8 +58,10 @@ The molar mass of air was calculated to be ${20g}/{mol}$
 The average number of moles of air measured in the Boyle's Law experiment was
 calculated to be $7.5 \times {10}^{-5} mol\ \mathrm{air}$.
 
-## Charts
-
 ![Boyle's law chart](boyles_law.png)
 
-![Charle's law chart](charles_law.png)
+![Charles' law chart](charles_law.png)
+
+## Attachments
+
+Please see attached data sheet and graphs.
