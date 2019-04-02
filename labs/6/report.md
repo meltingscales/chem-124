@@ -3,7 +3,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-
 
 <!-- https://www.tablesgenerator.com/markdown_tables# -->
 
-# Experiment 5: Gas Laws
+# Experiment 6: Analysis of $\mathrm{Al-Zn}$ alloy
 
 Illinois Institute of Technology
 
@@ -11,56 +11,45 @@ Henry Post and William Gaylord
 
 Zabel H. Panosyan
 
-03/13/19
+03/27/19
 
 # Objective
 
-To obtain the molar mass of air, the ambient air pressure, and to estimate
-absolute zero temperature.
+To determine the percent composition of a zinc-aluminum alloy by measuring the
+amount of hydrogen gas given off by the dissolution of the alloy.
 
 # Procedures
 
-The valve of a Boyle's Law apparatus (an adjustable pressure chamber with a
-temperature sensor) is opened to expose the pressure chamber to the lab's
-atmosphere, and the screw piston is adjusted to $40mL$. The valve is closed, and
-the volume, pressure, and temperature are all recorded. The screw piston is then
-set to various intervals of $5mL$, and the recording of the volume, pressure,
-and temperature is repeated.
+A gel capsule (pill) is obtained and weighed. Between $0.1000g$ and $0.1500g$ of
+alloy shavings are weighed. The shavings are then inserted into the gel capsule
+and the full gel capsule is weighed. This is repeated to obtain two pills.
 
-The stopcock of a Charles' Law apparatus (a jar) is opened and a syringe is used
-to insert air into the jar until the pressure is between $100mmHg$ and
-$150mmHg$. The stopcock is closed and the temperature and pressure are recorded.
-The temperature is then altered by placing the jar into hot water. It is
-recorded at various intervals, and then the same is done with an ice bath.
+A suction flask is evacuated of all air and filled with enough water to
+accommodate the hydrogen gas that will be emitted. The top end of the suction
+flask is put in a large empty beaker to capture the water displaced by the
+hydrogen gas.
 
-An empty $1L$ bottle with a gas valve cap attached is weighed and its weight
-recorded. The bottle is then filled with air from a bicycle pump (2-3 strokes).
-Its pressure is measured with a digital tire pressure gauge, and then the
-pressurized bottle is weighed. This trial is repeated. The bottle is then filled
-with water, and the full bottle (and cap) are all weighed.
+The side arm of the suction flask is then attached to a clamped test tube, which
+will serve as the reaction vessel. The test tube is filled with $10mL$ of $6M \
+\mathrm{HCl}$. One gel capsule is added and the test tube is sealed and attached
+to the clamped test tube. Hydrogen gas will be evolved in this step, so make
+sure that pressure buildup does not occur.
 
-<!-- No post-lab, hooray! -->
-<!-- ## Post-lab -->
+After the reaction is complete, the water displaced by the hydrogen gas is
+collected and its weight measured. The barometric pressure of the room is
+measured and recorded.
+
+## Post-lab
+
+TODO
 
 ## Conclusion
 
-In this lab, we explored the way that pressure, temperature, and volume all
-affected each other. We recorded multiple graphs and saw that volume and
-pressure were inversely related variables in $PV=nRT$, and that temperature and
-pressure were directly related variables.
+TODO
 
 ## Result
 
-Absolute zero was calculated to be $19.87K$.
-
-The molar mass of air was calculated to be ${20g}/{mol}$
-
-The average number of moles of air measured in the Boyle's Law experiment was
-calculated to be $7.5 \times {10}^{-5} mol\ \mathrm{air}$.
-
-![Boyle's law chart](boyles_law.png)
-
-![Charles' law chart](charles_law.png)
+TODO
 
 ## Attachments
 
