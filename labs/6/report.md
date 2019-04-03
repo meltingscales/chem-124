@@ -71,7 +71,7 @@ measured and recorded.
         
         If I were to not subtract $P_{H_{2}O(g)}$, or the vapor pressure of
         water, from my $P_{H_{2}}$, the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$
-        would increase due to $V_{H_{2}}$ being increased.
+        would **increase** due to $V_{H_{2}}$ being increased.
 
 ## Conclusion
 
