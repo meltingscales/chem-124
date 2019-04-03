@@ -32,8 +32,8 @@ hydrogen gas.
 The side arm of the suction flask is then attached to a clamped test tube, which
 will serve as the reaction vessel. The test tube is filled with $10mL$ of $6M \
 \mathrm{HCl}$. One gel capsule is added and the test tube is sealed and attached
-to the clamped test tube. Hydrogen gas will be evolved in this step, so make
-sure that pressure buildup does not occur.
+to the suction flask. Hydrogen gas will be evolved in this step, so make sure 
+that pressure buildup does not occur.
 
 After the reaction is complete, the water displaced by the hydrogen gas is
 collected and its weight measured. The barometric pressure of the room is
