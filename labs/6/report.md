@@ -41,16 +41,52 @@ measured and recorded.
 
 ## Post-lab
 
-TODO
+1)
+
+    The total mass of anhydrous $\mathrm{AlCl_3}$ produced from the first
+    experiment is $0.56g$.
+
+2)
+    a)
+        
+        If the water temperature were drastically decreased during the
+        experiment, the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$ would
+        **decrease** due to our measured $V_{H_{2}}$ being lower, because
+        $\mathrm{Al}$ emits more $\mathrm{H_2}$ when reacted.
+    
+    b)
+    
+        If the mass of the alloy were under-measured (lower than actual), then
+        the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$ would **increase**, as there
+        will be more $V_{H_{2}}$ measured and $\mathrm{Al}$ emits more
+        $\mathrm{H_2}$ when reacted.
+
+    c)
+    
+        If the alloy contained a component that did not react with
+        $\mathrm{HCl}$, this would **not affect** the ratio of $\mathrm{Al}$ to
+        $\mathrm{Zn}$, as it does not affect $V_{water}$ or $V_{H_{2}}$.
+
+    d)
+        
+        If I were to not subtract $P_{H_{2}O(g)}$, or the vapor pressure of
+        water, from my $P_{H_{2}}$, the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$
+        would increase due to $V_{H_{2}}$ being increased.
 
 ## Conclusion
 
-TODO
+In this lab, a technique for measuring the ratio of alloys in a compound was
+explored. We measured pressure of $\mathrm{H_{2}}$ gas indirectly, temperature,
+and mass of a reactant.
 
 ## Result
 
-TODO
+The average mass ratio of  $\mathrm{Al}$ to $\mathrm{Zn}$ was found to be
+$0.73:0.27$.
+
+That is to say, by mass, the sample was $73\% \ \mathrm{Al}$ to $27\% \
+\mathrm{Zn}$.
 
 ## Attachments
 
-Please see attached data sheet and graphs.
+Please see attached data sheet.
