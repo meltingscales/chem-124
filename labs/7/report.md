@@ -13,86 +13,89 @@ Zabel H. Panosyan
 
 04/03/19
 
-# Specialized Chemical Techniques
-
-In this experiment, we will measure temperature, weight, and volume.
-
-The amount of enthalpy of specific chemical reactions will be measured both
-directly and indirectly by measuring initial and final temperatures, for
-instance, $\Delta H_{rxn}$ of $\mathrm{HCl\ +\  NaOH \rightarrow NaCl\ +\ H_2O}$
-can be calculated by measuring initial and final temperatures of a solution of
-$\mathrm{HCl}$ and $\mathrm{NaOH}$.
-
-The heat of hydration and of dissolution can be measured in the same way.
-
 # Procedures
 
-A gel capsule (pill) is obtained and weighed. Between $0.1000g$ and $0.1500g$ of
-alloy shavings are weighed. The shavings are then inserted into the gel capsule
-and the full gel capsule is weighed. This is repeated to obtain two pills.
+A 'coffee cup' calorimeter is constructed from two styrofoam cups and a beaker.
+A cardboard plate with a hole is used with a rubber bands to secure a
+thermometer to the center of the calorimeter.
 
-A suction flask is evacuated of all air and filled with enough water to
-accommodate the hydrogen gas that will be emitted. The top end of the suction
-flask is put in a large empty beaker to capture the water displaced by the
-hydrogen gas.
+$50mL$ of room-temperature water is poured into the calorimeter and let sit
+until the temperature is stable. The temperature in the calorimeter is measured,
+and another $50mL$ of temperate water is heated until it is between
+$15^{\circ}C$ and $20^{\circ}C$. The warm water is added to the temperate water
+and the temperature in the calorimeter is measured in 15-second increments for 3
+minutes. This is repeated.
 
-The side arm of the suction flask is then attached to a clamped test tube, which
-will serve as the reaction vessel. The test tube is filled with $10mL$ of $6M \
-\mathrm{HCl}$. One gel capsule is added and the test tube is sealed and attached
-to the suction flask. Hydrogen gas will be evolved in this step, so make sure 
-that pressure buildup does not occur.
+$50.0mL$ of $1.0M\ \mathrm{NaOH(aq)}$ is added to the calorimeter and its
+temperature measured. $50.0mL$ of $1.0M\ \mathrm{HCl(aq)}$ is added to a
+clean, dry beaker and its temperate is measured. The $\mathrm{HCl}$ is added to
+the calorimeter and the temperature of the mixture is measured in 15-second
+increments for 3 minutes. This is repeated.
 
-After the reaction is complete, the water displaced by the hydrogen gas is
-collected and its weight measured. The barometric pressure of the room is
-measured and recorded.
+$50.0mL$ of $1.0M\ \mathrm{HCl(aq)}$ is added to the calorimeter and its
+temperature measured. Between $0.050g$ and $0.070g$ of $\mathrm{Mg\ (s)}$ is
+obtained and its weight recorded. The $\mathrm{Mg}$ is added to the calorimeter
+and the temperature of the mixture is measured in 15-second increments for 3
+minutes. This is repeated.
 
-## Post-lab
+$50.0mL$ of distilled water is added to the calorimeter and its temperature
+measured. Between $2.00g$ and $2.50g$ of $\mathrm{CuSO_4(s)}$ is obtained and
+its weight recorded. The $\mathrm{CuSO_4}$ is added to the calorimeter and the
+temperature of the mixture is measured after all of the solid dissolves. This is
+repeated.
 
-1)
-
-    The total mass of anhydrous $\mathrm{AlCl_3}$ produced from the first
-    experiment is $0.56g$.
-
-2)
-    a)
-        
-        If the water temperature were drastically decreased during the
-        experiment, the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$ would
-        **decrease** due to our measured $V_{H_{2}}$ being lower, because
-        $\mathrm{Al}$ emits more $\mathrm{H_2}$ when reacted.
-    
-    b)
-    
-        If the mass of the alloy were under-measured (lower than actual), then
-        the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$ would **increase**, as there
-        will be more $V_{H_{2}}$ measured and $\mathrm{Al}$ emits more
-        $\mathrm{H_2}$ when reacted.
-
-    c)
-    
-        If the alloy contained a component that did not react with
-        $\mathrm{HCl}$, this would **not affect** the ratio of $\mathrm{Al}$ to
-        $\mathrm{Zn}$, as it does not affect $V_{water}$ or $V_{H_{2}}$.
-
-    d)
-        
-        If I were to not subtract $P_{H_{2}O(g)}$, or the vapor pressure of
-        water, from my $P_{H_{2}}$, the ratio of $\mathrm{Al}$ to $\mathrm{Zn}$
-        would **increase** due to $V_{H_{2}}$ being increased.
-
-## Conclusion
-
-In this lab, a technique for measuring the ratio of alloys in a compound was
-explored. We measured pressure of $\mathrm{H_{2}}$ gas indirectly, temperature,
-and mass of a reactant.
+$50.0mL$ of distilled water is added to the calorimeter and its temperature
+measured. Between $2.00g$ and $2.50g$ of $\mathrm{CuSO_4 \cdot 5H_2O(s)}$ is
+obtained and its weight recorded. The $\mathrm{CuSO_4 \cdot 5H_2O}$ is added to
+the calorimeter and the temperature of the mixture is measured after all of the
+solid dissolves. This is repeated.
 
 ## Result
 
-The average mass ratio of  $\mathrm{Al}$ to $\mathrm{Zn}$ was found to be
-$0.73:0.27$.
+Below is a chart of the experimentally measured and calculated values of $\Delta
+H^{\circ}_{rxn}$ for all of the reactions performed in this laboratory
+experiment.
 
-That is to say, by mass, the sample was $73\% \ \mathrm{Al}$ to $27\% \
-\mathrm{Zn}$.
+$$
+\begin{array}{|c|c|c|c|}
+\hline
+Reaction 
+& \Delta H_{exp}
+& \Delta H_{calc}
+& \% Error \\ \hline
+\mathrm{NaOH(aq)+HCl(aq) \longrightarrow NaCl(aq) + H_2O(g)}  
+& -30kJ 
+& 11.9kJ
+& 60.3 \%
+\\ \hline
+\mathrm{Mg(s)+2\ HCl(aq) \longrightarrow MgCl_2(aq) + H_2(g)}
+& -83kJ
+& -466.8kJ
+& 5524 \%
+\\ \hline
+\mathrm{CuSO_4(s)+5\ H_2O(l) \longrightarrow CuSO_4 \cdot 5H_2O(s) }
+& -10kJ
+& -79.3kJ
+& 60.9 \%
+\\ \hline
+\end{array}
+$$
+
+# Specialized Chemical Techniques
+
+In this experiment, temperature, weight, and volume are measured.
+
+The amount of enthalpy of specific chemical reactions will be measured both
+directly and indirectly by measuring initial and final temperatures, for
+instance, $\Delta H^{\circ}_{rxn}$ of $\mathrm{HCl\ +\  NaOH \longrightarrow
+NaCl\ +\ H_2O}$ can be calculated by measuring initial and final temperatures of
+a solution of $\mathrm{HCl}$ and $\mathrm{NaOH}$.
+
+The heat of hydration and of dissolution can be measured in the same way.
+
+As you can see, there was around $60\%$ error for the experiment's calculated
+$\Delta H^{\circ}_{rxn}$ values compared to calculating them using Hess' law.
+This is likely due to many sources of inaccuracies compounding upon eachother
 
 ## Attachments
 
