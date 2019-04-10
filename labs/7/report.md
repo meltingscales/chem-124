@@ -13,6 +13,23 @@ Zabel H. Panosyan
 
 04/03/19
 
+## Specialized Chemical Techniques
+
+In this experiment, temperature, weight, and volume are measured.
+
+The amount of enthalpy of specific chemical reactions will be measured both
+directly and indirectly by measuring initial and final temperatures, for
+instance, $\Delta H^{\circ}_{rxn}$ of $\mathrm{HCl\ +\  NaOH \longrightarrow
+NaCl\ +\ H_2O}$ can be calculated by measuring initial and final temperatures of
+a solution of $\mathrm{HCl}$ and $\mathrm{NaOH}$.
+
+The heat of hydration and of dissolution can be measured in the same way.
+
+## Objective
+
+To determine the heat capacity ($c$) of a coffee cup calorimeter and the $\Delta
+H_{n}$, $\Delta H_{soln}$, and $\Delta H_{rxn}$ of various chemical reactions.
+
 ## Procedures
 
 A 'coffee cup' calorimeter is constructed from two styrofoam cups and a beaker.
@@ -81,21 +98,15 @@ Reaction
 \end{array}
 $$
 
-## Specialized Chemical Techniques
-
-In this experiment, temperature, weight, and volume are measured.
-
-The amount of enthalpy of specific chemical reactions will be measured both
-directly and indirectly by measuring initial and final temperatures, for
-instance, $\Delta H^{\circ}_{rxn}$ of $\mathrm{HCl\ +\  NaOH \longrightarrow
-NaCl\ +\ H_2O}$ can be calculated by measuring initial and final temperatures of
-a solution of $\mathrm{HCl}$ and $\mathrm{NaOH}$.
-
-The heat of hydration and of dissolution can be measured in the same way.
+## Conclusion
 
 As you can see, there was around $60\%$ error for the experiment's calculated
 $\Delta H^{\circ}_{rxn}$ values compared to calculating them using Hess' law.
 This is likely due to many sources of inaccuracies compounding upon eachother
+
+In this laboratory, we indirectly measured the $\Delta H$ of many chemical
+reactions based off of a calibrated calorimeter. We also used averaging to
+increase accuracy in measurements.
 
 ## Attachments
 
