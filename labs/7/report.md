@@ -50,7 +50,7 @@ obtained and its weight recorded. The $\mathrm{CuSO_4 \cdot 5H_2O}$ is added to
 the calorimeter and the temperature of the mixture is measured after all of the
 solid dissolves. This is repeated.
 
-## Result
+# Result
 
 Below is a chart of the experimentally measured and calculated values of $\Delta
 H^{\circ}_{rxn}$ for all of the reactions performed in this laboratory
@@ -97,6 +97,6 @@ As you can see, there was around $60\%$ error for the experiment's calculated
 $\Delta H^{\circ}_{rxn}$ values compared to calculating them using Hess' law.
 This is likely due to many sources of inaccuracies compounding upon eachother
 
-## Attachments
+# Attachments
 
 Please see attached data sheet.
